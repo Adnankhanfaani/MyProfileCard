@@ -49,7 +49,7 @@ const App = () => {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: '#f0f0f0',
+    backgroundColor: '#F5F7FA',
     alignItems: 'center', // Center content horizontally
     justifyContent: 'center', // Center content vertically
   },
